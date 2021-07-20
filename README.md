@@ -1,6 +1,6 @@
 # food-paradise
 A modern and beautiful layout for a food delivery/food subscription service!
-This is a part of my intern responisibilities.
+This is a part of my intern responisibilities. This is the front-end layout created by my team for the internship.
 
 ## Showcase
 
