@@ -1,5 +1,6 @@
 # food-paradise
 A modern and beautiful layout for a food delivery/food subscription service!
+This is a part of my intern responisibilities.
 
 ## Showcase
 
